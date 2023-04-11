@@ -44,14 +44,5 @@
         "type": "Full Time",
         "salary": "100K - 150K",
         "location": "Dhaka Bangladesh"
-    },
-    {
-        "_id": 6,
-        "title": "Software Engineer",
-        "company": "Tesla",
-        "image": "https://www.freepnglogos.com/uploads/tesla-logo-png-25.png",
-        "type": "Remote",
-        "salary": "100K - 150K",
-        "location": "Dhaka Bangladesh"
     }
 ]
