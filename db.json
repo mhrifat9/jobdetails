@@ -1,0 +1,57 @@
+[
+    {
+        "_id": 1,
+        "title": "Technical Database Engineer",
+        "image": "https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-google-sva-scholarship-20.png",
+        "company": "Google LLC",
+        "type1": "Remote",
+        "type": "Full Time",
+        "salary": "100K - 150K",
+        "location": "Dhaka Bangladesh"
+    },
+    {
+        "_id": 2,
+        "title": "Senior Product Designer",
+        "image": "https://bi-jingo.com/wp-content/uploads/2009/03/netflix-logo-png-clip-art.png",
+        "company": "Netflix",
+        "type": "On Site",
+        "salary": "100K - 150K",
+        "location": "Dhaka Bangladesh"
+    },
+    {
+        "_id": 3,
+        "title": "Software Engineer",
+        "company": "Tesla",
+        "image": "https://www.freepnglogos.com/uploads/tesla-logo-png-25.png",
+        "type": "Full Time",
+        "salary": "100K - 150K",
+        "location": "Dhaka Bangladesh"
+    },
+    {
+        "_id": 4,
+        "title": "Marketing Manager",
+        "company": "Daraz",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Daraz_Logo.png",
+        "type": "Remote",
+        "salary": "100K - 150K",
+        "location": "Dhaka Bangladesh"
+    },
+    {
+        "_id": 5,
+        "title": "Technical Database Engineer",
+        "company": "Google LLC",
+        "image": "https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-google-sva-scholarship-20.png",
+        "type": "Full Time",
+        "salary": "100K - 150K",
+        "location": "Dhaka Bangladesh"
+    },
+    {
+        "_id": 6,
+        "title": "Software Engineer",
+        "company": "Tesla",
+        "image": "https://www.freepnglogos.com/uploads/tesla-logo-png-25.png",
+        "type": "Remote",
+        "salary": "100K - 150K",
+        "location": "Dhaka Bangladesh"
+    }
+]
